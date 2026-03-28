@@ -4,7 +4,7 @@
 		"name": "Sqaft"
 	},
 	"metadata": {
-		"description": "A marketplace for plugins developed by Sqaft.",
+		"description": "A Claude marketplace for plugins developed by Sqaft.",
 		"version": "0.0.2"
 	},
 	"plugins": [
