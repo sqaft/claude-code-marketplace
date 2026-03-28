@@ -1,28 +1,28 @@
 {
-  "name": "sqaft-claude-marketplace",
-  "owner": {
-    "name": "Sqaft"
-  },
-  "metadata": {
-    "description": "A curated collection of Claude Code plugins maintained by Sqaft",
-    "version": "0.0.1"
-  },
-  "plugins": [
-    {
-      "name": "claude-code-awake",
-      "description": "Prevents your computer from sleeping during Claude Code sessions",
-      "version": "0.0.1",
-      "author": {
-        "name": "Yakup Yigit"
-      },
-      "homepage": "https://github.com/sqaft/claude-code-awake",
-      "license": "MIT",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/sqaft/claude-code-awake.git"
-      },
-      "keywords": ["productivity", "system", "hooks"],
-      "category": "development-workflows"
-    }
-  ]
+	"name": "sqaft-claude-marketplace",
+	"owner": {
+		"name": "Sqaft"
+	},
+	"metadata": {
+		"description": "A marketplace for plugins developed by Sqaft.",
+		"version": "0.0.1"
+	},
+	"plugins": [
+		{
+			"name": "claude-code-awake",
+			"description": "Prevents your computer from sleeping during Claude Code sessions.",
+			"version": "0.0.1",
+			"author": {
+				"name": "Yakup Yigit"
+			},
+			"homepage": "https://github.com/sqaft/claude-code-awake",
+			"license": "MIT",
+			"source": {
+				"source": "url",
+				"url": "https://github.com/sqaft/claude-code-awake.git"
+			},
+			"keywords": ["productivity", "system", "hooks"],
+			"category": "development-workflows"
+		}
+	]
 }
