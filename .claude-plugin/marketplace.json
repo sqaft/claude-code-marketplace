@@ -1,0 +1,26 @@
+{
+  "name": "sqaft-claude-marketplace",
+  "displayName": "Sqaft Claude Marketplace",
+  "description": "A curated collection of Claude Code plugins maintained by Sqaft",
+  "version": "0.0.1",
+  "author": "Sqaft",
+  "homepage": "https://github.com/sqaft/claude-code-marketplace",
+  "plugins": [
+    {
+      "name": "claude-code-awake",
+      "displayName": "Claude Code Awake",
+      "description": "Prevents your computer from sleeping during Claude Code sessions",
+      "version": "0.0.1",
+      "author": "Yakup Yigit",
+      "homepage": "https://github.com/sqaft/claude-code-awake",
+      "license": "MIT",
+      "source": {
+        "type": "github",
+        "repo": "sqaft/claude-code-awake"
+      },
+      "platforms": ["darwin"],
+      "tags": ["productivity", "system", "hooks"],
+      "category": "development-workflows"
+    }
+  ]
+}
