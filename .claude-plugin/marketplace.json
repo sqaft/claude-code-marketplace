@@ -5,13 +5,13 @@
 	},
 	"metadata": {
 		"description": "A marketplace for plugins developed by Sqaft.",
-		"version": "0.0.1"
+		"version": "0.0.2"
 	},
 	"plugins": [
 		{
 			"name": "claude-code-awake",
 			"description": "Prevents your computer from sleeping during Claude Code sessions.",
-			"version": "0.0.1",
+			"version": "0.0.2",
 			"author": {
 				"name": "Yakup Yigit"
 			},
