@@ -18,8 +18,8 @@
       "homepage": "https://github.com/sqaft/claude-code-awake",
       "license": "MIT",
       "source": {
-        "source": "github",
-        "repo": "sqaft/claude-code-awake"
+        "source": "url",
+        "url": "https://github.com/sqaft/claude-code-awake.git"
       },
       "keywords": ["productivity", "system", "hooks"],
       "category": "development-workflows"
