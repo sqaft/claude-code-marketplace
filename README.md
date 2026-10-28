@@ -14,4 +14,4 @@ Add this marketplace to Claude Code:
 
 | Plugin Name | Description | Repository | Install Command |
 |-------------|-------------|------------|-----------------|
-| Claude Code Awake | Prevents your computer from sleeping during Claude Code sessions. | [sqaft/claude-code-awake](https://github.com/sqaft/claude-code-awake) | `/plugin install claude-code-awake@sqaft-claude-marketplace` |
+| Claude Code Awake | Keeps your computer awake while Claude Code agents are working, and for as long as Remote Control is on. macOS, Linux, Windows and WSL. | [sqaft/claude-code-awake](https://github.com/sqaft/claude-code-awake) | `/plugin install claude-code-awake@sqaft-claude-marketplace` |
